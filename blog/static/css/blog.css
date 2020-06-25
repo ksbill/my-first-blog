@@ -4,13 +4,13 @@ h1 a, h2 a {
 }
 
 body {
-    padding-left: 15px;
+    padding-left: 1vw;
 }
 
 .page-header {
     background-image: url("https://www.wyocentral.org/wp-content/uploads/2019/12/it-summit-inner-header-image-3-2000x350-1.jpg");
     margin-top: 0;
-    padding: 115px 100px 115px 100px;
+    padding: 115px 10vw 115px 7vw;
     }
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #ffffff;
@@ -19,10 +19,10 @@ body {
     margin-left: 150px;
 }
 .content {
-    margin-left: 400px;
-    margin-right: 100px;
-    margin-bottom: 40px;
-    margin-top: 40px;
+    margin-left: 25vw;
+    margin-right: 20vw;
+    margin-bottom: 10vw;
+    margin-top: 10vw;
 }
 h1, h2, h3, h4 {
     font-family: 'Berkshire Swash', cursive;
